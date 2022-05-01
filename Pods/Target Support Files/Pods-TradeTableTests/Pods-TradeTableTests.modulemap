@@ -1,0 +1,6 @@
+framework module Pods_TradeTableTests {
+  umbrella header "Pods-TradeTableTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
